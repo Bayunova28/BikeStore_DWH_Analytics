@@ -4,7 +4,7 @@
 ## ETL Data Pipeline 
 <img src="https://github.com/Bayunova28/BikeStore_DWH_Analytics/blob/main/Create%20Database/data_pipeline.png" height="300" width="1000">
 
-## OLAB Tabular Cube
+## OLAB Multidimensional Tabular Cube
 <img src="https://github.com/Bayunova28/BikeStore_DWH_Analytics/blob/main/OLAB-Tabular-Cube-BikeStores.png" height="450" width="1000">
 
 ## Inspiration
