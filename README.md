@@ -5,4 +5,4 @@
 <img src="https://github.com/Bayunova28/BikeStore_DWH_Analytics/blob/main/Create%20Database/data_pipeline.png" height="300" width="1000">
 
 ## OLAB Tabular Cube
-<img src="https://github.com/Bayunova28/BikeStore_DWH_Analytics/blob/main/OLAB-Tabular-Cube-BikeStore.png" height="600" width="1000">
+<img src="https://github.com/Bayunova28/BikeStore_DWH_Analytics/blob/main/OLAB-Tabular-Cube-BikeStore.png" height="500" width="1000">
