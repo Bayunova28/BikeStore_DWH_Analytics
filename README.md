@@ -1,4 +1,3 @@
-# INPROGRESS
 ## Database Diagram
 <img src="https://github.com/Bayunova28/BikeStore_DWH_Analytics/blob/main/Create%20Database/database_diagram.png" height="700" width="1000">
 
